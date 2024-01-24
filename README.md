@@ -17,7 +17,7 @@
 
 
 
-
+<!--
 <h2>:fire: My Stats :</h2>
 <br>
 
@@ -34,7 +34,7 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
-<p align="center">
+<p align="center"> -->
     
 <a href="https://github.com/mouaadsgalaxy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mouaadsgalaxy">
