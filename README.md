@@ -2,7 +2,7 @@
 
 ### Hi 👋, I am ELHANSALI MOUAAD
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Software+Engineering+Student;Machine+Learning+Student;" alt="mouaad elhansali skills " /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Software+Engineering+Student;Machine+Learning+Student;Data+Science+Enthusiast;" alt="mouaad elhansali skills " /></a>
 </p>
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
